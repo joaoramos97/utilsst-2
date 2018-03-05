@@ -1,35 +1,17 @@
 <!-- Side navigation -->
 <div id="mySidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
     <img src="../../assets/UTILsst (branco).svg" alt="" onclick="closeNav()">
-    <div class="sizeimg">
-        <a href="#">Favoritos
-            <img class="img1" src="assets\Favoritos.svg">
-        </a>
-        <br>
-        <a href="#">Manutenção
-            <img class="img2" src="assets\Manutenção.svg">
-        </a>
-        <br>
-        <a href="#">Estatísticas
-            <img class="img3" src="assets\Estatística.svg">
-        </a>
-    </div>
-</div>
+    <ul>
+        <li><i class="far fa-star"></i> Favoritos</li><br>
+        <li><i class="fas fa-wrench"></i> Manutenção</li><br>
+        <li><i class="fas fa-chart-line"></i> Estatísiticas</li><br>
+    </ul>
+  </div>
       <!-- Page content -->
-<div class="main">
+<div id="main">
     <app-navbar></app-navbar>
 </div>
 
-<!-- SCRIPT TO OPEN AND CLOSE SIDE BAR -->
-<script>
-        function openNav() {
-            document.getElementById("mySidenav").style.width = "250px";
-            document.getElementById("main").style.marginLeft = "250px";
-        }
-        
-        function closeNav() {
-            document.getElementById("mySidenav").style.width = "0";
-            document.getElementById("main").style.marginLeft= "0";
-        }
-        </script>
+
 

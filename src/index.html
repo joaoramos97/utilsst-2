@@ -1,9 +1,22 @@
 <!doctype html>
 <html lang="en">
 <head>
+  <!-- SCRIPT TO OPEN AND CLOSE SIDE BAR -->
+  <script>
+    function openNav() {
+        document.getElementById("mySidenav").style.width = "200px";
+        document.getElementById("main").style.marginLeft = "200px";
+    }
+    
+    function closeNav() {
+        document.getElementById("mySidenav").style.width = "0";
+        document.getElementById("main").style.marginLeft= "0";
+    }
+  </script>
   <meta charset="utf-8">
   <title>Utilsst</title>
   <base href="/">
+  <script defer src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
   <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
