@@ -16,7 +16,7 @@
   color: white;
   padding: 10%;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 15px;
   display: block;
   transition: 0.3s;
 }
@@ -45,4 +45,12 @@ main {
 img {
   width: 120px;
   margin: 10%;
+}
+
+.sizeimg img{
+  width: 30px;
+  float: left;
+  padding-top: 5px;
+  margin-top: -10px;
+  max-width: 100px;
 }
