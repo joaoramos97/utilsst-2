@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Svg Vector Icons : http://www.onlinewebfonts.com/icon -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 1000 1000"
+   enable-background="new 0 0 1000 1000"
+   xml:space="preserve"
+   id="svg3005"
+   inkscape:version="0.48.4 r9939"
+   width="100%"
+   height="100%"
+   sodipodi:docname="Eliminar.svg"
+   inkscape:export-filename="C:\Users\Adelino.UTILSOFT\Desktop\Novos icons\Eliminar.png"
+   inkscape:export-xdpi="1.4400001"
+   inkscape:export-ydpi="1.4400001"><defs
+   id="defs3023" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview3021"
+   showgrid="false"
+   inkscape:zoom="0.83"
+   inkscape:cx="500"
+   inkscape:cy="500"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg3005" />
+<metadata
+   id="metadata3007"> Svg Vector Icons : http://www.onlinewebfonts.com/icon <rdf:RDF><cc:Work
+     rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata>
+<g
+   id="g3009"
+   style="fill:#ffffff"><path
+     d="M220,185h700c19.4,0,35,15.6,35,35c0,19.4-15.6,35-35,35H80c-19.4,0-35-15.6-35-35s15.6-35,35-35H220"
+     id="path3011"
+     style="fill:#ffffff" /><path
+     d="M605,745c-19.4,0-35-15.6-35-35V360c0-19.4,15.6-35,35-35s35,15.6,35,35v350C640,729.4,624.4,745,605,745z"
+     id="path3013"
+     style="fill:#ffffff" /><path
+     d="M395,745c-19.4,0-35-15.6-35-35V360c0-19.4,15.6-35,35-35s35,15.6,35,35v350C430,729.4,414.4,745,395,745z"
+     id="path3015"
+     style="fill:#ffffff" /><path
+     d="M290,220h-70V115c0-57.9,47.1-105,105-105h350.8c57.9,0,105,47.1,105,105v105h-70V115c0-19.3-15.7-35-35-35H325c-19.3,0-35,15.7-35,35V220z"
+     id="path3017"
+     style="fill:#ffffff" /><path
+     d="M745.1,990H255.1c-57.9,0-105-47.1-105-105V359.5c0-19.3,15.7-35,35-35c19.3,0,35,15.7,35,35V885c0,19.3,15.7,35,35,35h490.1c19.3,0,35-15.7,35-35V360.9c0-19.3,15.6-35,35-35c19.4,0,35,15.7,35,35V885C850.1,942.9,803,990,745.1,990z"
+     id="path3019"
+     style="fill:#ffffff" /></g>
+</svg>
