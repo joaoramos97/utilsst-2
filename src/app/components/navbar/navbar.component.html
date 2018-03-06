@@ -1,8 +1,26 @@
-<nav class="navbar navbar-light bg-faded" style="background-color: #347AA8;">
-  <div class="container">
-    <img onclick="openNav()" src="assets\Menu.svg">
-    <img src="assets\Ajuda.svg">
-    <img src="assets\Médico.svg">
-    <img src="assets\Sair.svg">
+<nav class="navbar navbar-expand-lg"> 
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarNavDropdown">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+      </div>
+  <div class="collapse navbar-collapse" id="navbarNavDropdown">
+    <ul class="navbar-nav mr-auto">
+      <li onclick="openNav()">
+        <i class="fas fa-bars"></i>  
+      </li>
+      <li>
+        <i class="fas fa-question"></i>
+      </li> 
+      <li>
+        <i class="fas fa-user"></i> 
+      </li>
+      <li>
+        <i class="fas fa-power-off"></i>
+      </li>
+    </ul>
   </div>
 </nav>
