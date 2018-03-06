@@ -2,29 +2,21 @@
 .sidenav {
   height: 100%;
   width: 0;
-  position: fixed;
-  z-index: 1;
+  position: absolute;
   top: 0;
   left: 0;
   background-color: #464646;
   overflow-x:hidden;
-  transform: translate(0,0);
-  -webkit-transition: all .2s ease-in-out;
-  -moz-transition: all .2s ease-in-out; /** Firefox **/
-  -o-transition: all -2s ease-in-out; /** Opera **/
+  transition: .3s;
   padding-top: 10px;
 }
 
 .sidenav a {
   color: white;
-  padding: 10%;
+  padding: 10px;
   text-decoration: none;
   font-size: 15px;
   display: block;
-  transform: translate(0,0);
-  -webkit-transition: all .2s ease-in-out;
-  -moz-transition: all .2s ease-in-out; /** Firefox **/
-  -o-transition: all -2s ease-in-out; /** Opera **/
 }
 
 .sidenav a:hover {
@@ -41,10 +33,7 @@
 }
 
 #main {
-  transform: translate(0,0);
-  -webkit-transition: all .2s ease-in-out;
-  -moz-transition: all .2s ease-in-out; /** Firefox **/
-  -o-transition: all -2s ease-in-out; /** Opera **/
+  transition: .3s;
 }
 
 @media screen and (max-height: 450px) {
@@ -62,9 +51,10 @@ img {
   list-style-type: none;
   color: white;
   font-size: 20px;
+  position: absolute;
 }
 .sidenav ul li{
-  margin-top: 3px;
+  margin-bottom: 20px;
   font-weight: lighter;
 }
 .sizeimg img{
